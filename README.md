@@ -42,12 +42,12 @@ Create a personal portfolio using **HTML** and **CSS**. For those looking for an
 ## CSS Tasks
 
 ### style.css
-- [ ] 23. Add flexbox to the navbars.
-- [ ] 24. Format the size of all images.
-- [ ] 25. Style the font color.
-- [ ] 26. Style the background with a color or image.
-- [ ] 27. Adjust the spacing of your page.
-- [ ] 28. Adjust the positioning of your page.
+- [ ] 15. Add flexbox to the navbars.
+- [ ] 16. Format the size of all images.
+- [ ] 17. Style the font color.
+- [ ] 18. Style the background with a color or image.
+- [ ] 19. Adjust the spacing of your page.
+- [ ] 20. Adjust the positioning of your page.
 
 ## Extensions
 - [ ] Style your navbar so the style of the links change when you hover over them.
