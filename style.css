@@ -1,10 +1,27 @@
 /* Add flexbox to the navbars. */
+/* Put body in the center of the page. Add margins to the right side and the left side like a boundary. */
 
 
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
-/* Format the size of all images. */
+/* Put mainContent in a box that contains all elements. */
 
+main {
 
+  
+/* Format the size of #lifeUpdatePicture from index.html*/
+
+#lifeUpdatePicture {
+  width: 300px;
+  height: 300px;
+}
 
 /* Style the font color. */
 
